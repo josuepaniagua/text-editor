@@ -9,7 +9,7 @@
 Josue Paniagua
 (https://github.com/josuepaniagua)
 
-URL of the deployed application: https://the-best-text-editor.herokuapp.com/ 
+URL of the deployed application: https://the-best-text-editor.herokuapp.com
 
 ## *Description*
 This is a simple text editor and can work both online and offline. The application can use the data in the idexedDB to insert the editor. If offline, this application can be downloaded to your local machine.
